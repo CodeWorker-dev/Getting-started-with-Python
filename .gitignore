@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 # Created by .ignore support plugin (hsz.mobi)
 ### Python template
+=======
+>>>>>>> b526c2e054c6aed059c91e3db12156745da242b7
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -93,8 +96,11 @@ ipython_config.py
 #   install all needed dependencies.
 #Pipfile.lock
 
+<<<<<<< HEAD
 .idea
 *.iml
+=======
+>>>>>>> b526c2e054c6aed059c91e3db12156745da242b7
 # PEP 582; used by e.g. github.com/David-OConnor/pyflow
 __pypackages__/
 
@@ -131,4 +137,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+<<<<<<< HEAD
 
+=======
+>>>>>>> b526c2e054c6aed059c91e3db12156745da242b7
