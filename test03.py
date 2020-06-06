@@ -23,3 +23,34 @@ while n > 0:
     s = s + n
     n = n - 1
 print('s =',s)
+
+n = 0
+while n <= 100:
+    print('n:',n)
+    n = n + 1
+
+print('------------------------------------')
+m=0
+while m <= 100:
+    if m > 10:
+        break;
+    print('m:',m)
+    m = m + 1
+
+print('------------------------------------')
+v = 0
+while v <= 100:
+    if v < 10:
+        v = v + 1
+        continue
+    print('v:', v)
+    v = v + 1
+
+print('-------------------------------------')
+a = 1
+while a < 10:
+    if a % 2 == 0:
+        a = a + 1
+        continue
+    print(a)
+    a = a + 1
