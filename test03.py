@@ -8,12 +8,11 @@ sum = 0
 for x in L:
     sum = sum + x
     print(sum)
-<<<<<<< HEAD
     print('dhadajkdhakdjakhdahdka')
 
 print('bb分支来了')
 print('hahahahaa')
-=======
+
 
 sun = 0
 for y in list(range(6)):
@@ -60,4 +59,4 @@ while a < 10:
         continue
     print(a)
     a = a + 1
->>>>>>> 6c606431c8dc2e11ee1aa599afea2f498226e9c6
+
