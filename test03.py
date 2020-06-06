@@ -3,13 +3,23 @@
 # @Time:2020/6/618:33
 # @Version:
 # @Function:
+L = [0,1,2,3,4,5]
 sum = 0
-for x in [1,2,3,4,5,6,7,8,9,0]:
+for x in L:
     sum = sum + x
     print(sum)
-print('nihao')
-print('dhadajkdhakdjakhdahdka')
-print('nihao')
-print('dhadajkdhakdjakhdahdka')
-print('dhadajkdhakdjakhdahdka')
-print('嗲后代的哈萨克等哈上的讲话')
+
+sun = 0
+for y in list(range(6)):
+    sun = sun + y
+    print('sun=',sun)
+
+print(list(range(6)))
+print('-----------------------------------------')
+
+s = 0
+n = 100
+while n > 0:
+    s = s + n
+    n = n - 1
+print('s =',s)
